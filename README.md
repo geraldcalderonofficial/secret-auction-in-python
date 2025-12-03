@@ -1,5 +1,5 @@
 # Secret Auction in Python
 
-At a silent auction, each item has its own specific bid sheet where guests can place their bids. At a traditional silent auction, most guests have their own clipboard with the bid sheets attached. There, they can write down the highest amount they would be willing to pay for each item they are interested in.
+A silent auction is a fundraiser where people bid on items without an auctioneer calling out prices. Instead of shouting bids, folks write them down or enter them digitally, usually on paper bid sheets or through mobile bidding software.
 
 [Gerald Works]()
